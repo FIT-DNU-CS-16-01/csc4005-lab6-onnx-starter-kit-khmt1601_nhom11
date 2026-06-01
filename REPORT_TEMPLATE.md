@@ -2,9 +2,9 @@
 
 ## 1. Thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Lớp:
+- Họ tên: Trần Trường Giang
+- Mã sinh viên: 1671040009
+- Lớp: KHMT 16-01
 - Link GitHub repo:
 - Link checkpoint hoặc mô tả checkpoint sử dụng:
 - Link file ONNX nếu không commit trực tiếp:
