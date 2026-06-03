@@ -1,0 +1,17 @@
+{
+  "checkpoint": "checkpoints/best_model.pt",
+  "onnx_path": "outputs/vit_smartcampus.onnx",
+  "data_dir": "data/mit_indoor_smartcampus_5",
+  "classes": [
+    "classroom",
+    "computerroom",
+    "library",
+    "corridor",
+    "office"
+  ],
+  "num_samples": 32,
+  "batch_size": 8,
+  "img_size": 224,
+  "atol": 0.0001,
+  "rtol": 0.001
+}

@@ -1,0 +1,11 @@
+{
+  "checkpoint": "checkpoints/best_model.pt",
+  "onnx_path": "outputs/vit_smartcampus.onnx",
+  "model_name": "vit_b_16",
+  "num_classes": 5,
+  "img_size": 224,
+  "opset": 17,
+  "dynamic_batch": true,
+  "input_name": "input",
+  "output_name": "logits"
+}
