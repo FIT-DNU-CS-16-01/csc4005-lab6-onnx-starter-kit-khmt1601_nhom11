@@ -164,10 +164,10 @@ Do mô hình được export với Dynamic Batch, cùng một file ONNX có th�
 | ----------- | ---------- | ----------------- | ------------------- | ---------------- | ------------------ | --------------- |
 | PyTorch     | 1          | 120.28            | 121.56              | 138.65           | 8.31               | 327.37          |
 | ONNXRuntime | 1          | 109.25            | 106.13              | 133.97           | 9.15               | 327.37*         |
+| PyTorch     | 4          | 486.72            | 472.31              | 559.84           | 8.22               | 327.37          |
+| ONNXRuntime | 4          | 428.65            | 421.48              | 472.19           | 9.33              | 327.37*         |
 | PyTorch     | 8          | 842.31            | 835.47              | 901.62           | 9.50               | 327.37          |
 | ONNXRuntime | 8          | 701.84            | 694.28              | 758.91           | 11.40              | 327.37*         |
-| PyTorch     | 16         | 1635.72           | 1618.55             | 1712.84          | 9.78               | 327.37          |
-| ONNXRuntime | 16         | 1328.46           | 1315.27             | 1398.63          | 12.04              | 327.37*         |
 
 * File `.onnx` chỉ chứa graph mô hình, trong khi phần lớn trọng số được lưu trong file `.onnx.data`. Vì vậy tổng kích thước thực tế của mô hình ONNX xấp xỉ checkpoint PyTorch.
 
