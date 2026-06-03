@@ -7,7 +7,7 @@
 |  1  | Trần Trường Giang    | 1671040009          | KHMT 16-01 |
 |  2  | Nguyễn Văn Huy    | 1671040013          | KHMT 16-01 |
 
-* Link GitHub repo: [...](https://github.com/FIT-DNU-CS-16-01/csc4005-lab6-onnx-starter-kit-khmt1601_nhom11)
+* Link GitHub repo: [https://github.com/FIT-DNU-CS-16-01/csc4005-lab6-onnx-starter-kit-khmt1601_nhom11](https://github.com/FIT-DNU-CS-16-01/csc4005-lab6-onnx-starter-kit-khmt1601_nhom11)
 * Link checkpoint sử dụng: checkpoints/best_model.pt (327.4 MB) - kết quả đã train từ bài Lab5
 * Link file ONNX: 
 
